@@ -1,0 +1,20 @@
+{
+  "name": "jpmorgon",
+  "lockfileVersion": 3,
+  "requires": true,
+  "packages": {},
+  "dependencies": {
+    "@react-navigation/native": "^7.1.26",
+    "@react-navigation/stack": "^7.6.13",
+    "axios": "^1.13.2",
+    "react-native-gesture-handler": "^2.30.0",
+    "react-native-reanimated": "^4.2.1",
+    "react-native-safe-area-context": "^5.6.2",
+    "react-native-screens": "^4.19.0",
+    "react-native-sms-retriever": "^1.1.1",
+    "react-native-vector-icons": "^10.3.0"
+  },
+  "devDependencies": {
+    "@react-native-community/cli": "^20.0.2"
+  }
+}
